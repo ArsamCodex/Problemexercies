@@ -18,7 +18,7 @@ package exercies;
           
    }
         
-   PUBLIC void withdraw(float d){
+   public void withdraw(float d){
           if( Balance < d ) {
                  sout(" ONVOLDOENDE"" );
                       } else {
